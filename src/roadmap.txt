@@ -1,0 +1,16 @@
+Roadmap:
+pages and implement routing implementation
+    pages: 
+        users  
+            index.vue
+        posts   
+            index.vue
+
+installed vue router for routing
+
+
+i have create layout
+    vuetify
+i have to plant data 
+    create 2 states
+    
